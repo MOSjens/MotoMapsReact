@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MotoMapsReact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/MotoMapsReact/static/js/main.0c31c8fd.chunk.js",
+    "main.js.map": "/MotoMapsReact/static/js/main.0c31c8fd.chunk.js.map",
+    "runtime-main.js": "/MotoMapsReact/static/js/runtime-main.9a0364a8.js",
+    "runtime-main.js.map": "/MotoMapsReact/static/js/runtime-main.9a0364a8.js.map",
+    "static/js/2.ecdfc21d.chunk.js": "/MotoMapsReact/static/js/2.ecdfc21d.chunk.js",
+    "static/js/2.ecdfc21d.chunk.js.map": "/MotoMapsReact/static/js/2.ecdfc21d.chunk.js.map",
+    "index.html": "/MotoMapsReact/index.html",
+    "precache-manifest.2209afcd921733202fd273925e4c3927.js": "/MotoMapsReact/precache-manifest.2209afcd921733202fd273925e4c3927.js",
+    "service-worker.js": "/MotoMapsReact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/MotoMapsReact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ecdfc21d.chunk.js.LICENSE.txt": "/MotoMapsReact/static/js/2.ecdfc21d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MotoMapsReact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a0364a8.js",
+    "static/js/2.ecdfc21d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0c31c8fd.chunk.js"
+  ]
+}
